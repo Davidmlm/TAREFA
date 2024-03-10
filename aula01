@@ -1,0 +1,23 @@
+Falsas 2,3,5,6,8,10 A afirmação 10 é falsa porque a memória RAM (Random Access Memory) é uma forma de armazenamento volátil, o que significa que ela não retém dados quando a energia é desligada.
+endereco: Texto
+telefone: Texto
+salario: Real
+cpf: Texto
+preco: Real
+temperatura: Real
+casado: Booleano
+nascimento: Data
+vacinado: Booleano
+preco_gasolina: Real
+litros_gasolina: Real
+preco_pao: Real
+total_compras: Real
+idade: Inteiro
+data_contrato: Data
+nivel_escolaridade: Texto
+Um dado entra no computador através de periféricos de entrada, como teclado, mouse, scanner, câmera, microfone, entre outros.
+Esses periféricos convertem informações externas em sinais eletrônicos compreensíveis pelo computador. 
+Por exemplo, ao digitar no teclado, cada tecla pressionada envia um sinal elétrico que é interpretado pelo computador e exibido na tela.
+Da mesma forma, ao usar um mouse, os movimentos e cliques são convertidos em sinais eletrônicos para interação com o computador.
+Ao escanear um documento, o scanner converte a imagem em dados digitais que podem ser processados pelo computador.
+David Michael 1*2
