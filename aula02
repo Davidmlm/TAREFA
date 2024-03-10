@@ -1,0 +1,33 @@
+Falsas 2,3,5,8,9 8A linguagem de programação C possui um tipo de dado chamado "bool" (booleano) que representa valores verdadeiro ou falso.
+Portanto, a afirmação de que a linguagem de programação C não possui variáveis do tipo booleano é falsa.
+2) S = (D v A ^ C) v ~(B v C)
+   S = (V v V ^ F) v ~(F v F)
+   S = (V v F) v ~F
+   S = V v V
+   S = V
+
+3) S = ~(A v B)
+   S = ~(V v F)
+   S = ~V
+   S = F
+
+4) S = ~(A ^ B)
+   S = ~(V ^ F)
+   S = ~F
+   S = V
+
+5) S = C v ~B ^ (A v ~D)
+   S = F v ~F ^ (V v F)
+   S = F v V ^ V
+   S = F v V
+   S = V
+
+Neste programa, para realizar as operações de soma, subtração, multiplicação e divisão, seriam utilizados os operadores aritméticos. Os operadores aritméticos são comuns na maioria das linguagens de programação e são utilizados para realizar operações matemáticas básicas. Os operadores aritméticos incluem:
+
+1. Adição (+): Utilizado para realizar a adição de dois valores.
+2. Subtração (-): Utilizado para realizar a subtração de um valor de outro.
+3. Multiplicação (*): Utilizado para realizar a multiplicação de dois valores.
+4. Divisão (/): Utilizado para realizar a divisão de um valor por outro.
+Esses operadores são fundamentais para realizar cálculos matemáticos dentro de um programa e são amplamente suportados em diversas linguagens de programação, como C, Python, Java, JavaScript, entre outras. 
+Portanto, para criar um programa que receba duas entradas e retorne o resultado da soma, subtração, multiplicação e divisão, utilizaríamos os operadores aritméticos correspondentes a cada operação matemática.
+Davida Michael 1*2
